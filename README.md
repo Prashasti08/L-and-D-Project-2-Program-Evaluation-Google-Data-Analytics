@@ -1,4 +1,4 @@
-# Learning Program Evaluation | Google Data Analytics Certificate
+# Program Evaluation | Google Data Analytics Certificate
 
 ## Project Overview
 Conducted an **independent program evaluation** of Google's Data Analytics Certificate using **Kirkpatrick's Four-Level Model**, drawing on secondary research and learner experience to identify opportunities for improving training effectiveness.
